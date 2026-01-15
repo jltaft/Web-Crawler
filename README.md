@@ -1,7 +1,3 @@
-Programming Assignment 6
-Name: Jennifer Taft
-ID: 1999551
-
 This program takes a seedURL and crawls up to the specified depth
 
 Sources:
